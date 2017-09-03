@@ -1,7 +1,9 @@
 
 public class Ugly {
 	public static void main(String[] args) {
-		System.out.println("How short I am!");
+		String line = ("\t***** \n      ********* \n     ***********");
+        String linetwo = 
+		System.out.println(line);
 	}
-
 }
+
